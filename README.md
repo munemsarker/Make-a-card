@@ -2,6 +2,8 @@
 
 This is a card design with extra design and special features.
 
+<img src="./screenshotcard.png" width="250">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
